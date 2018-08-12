@@ -1,0 +1,1 @@
+C:\Users\Blade\source\repos\InstitutoWebApp\obj\Release\docker-compose.dcproj.CoreCompileInputs.cache
